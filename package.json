@@ -1,0 +1,16 @@
+{
+  "name": "odometer_nodeapp",
+  "version": "1.0.0",
+  "description": "a node app for calculating fuel consuption anomally",
+  "main": "odonode.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ohioze Alex Omiunu/Opeyemi Oshoala Nabeel",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^2.20.0",
+    "inquirer": "^6.4.1",
+    "mongoose": "^5.6.3"
+  }
+}
